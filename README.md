@@ -1,8 +1,5 @@
-
-![airflow](airflowlogo.png)
-
-# Yet Another Scalable Apache Airflow With Docker Example Setup
-This repository contains the code for article https://medium.com/@tomaszdudek/yet-another-scalable-apache-airflow-with-docker-example-setup-84775af5c451. It features a scaffold of Apache Airflow, whose workers instead of executing the job themselves, run Docker containers and wait until they complete.
+# Based on [Spaszek's Airflow_Project] (https://github.com/spaszek/airflow_project)
+It features a scaffold of Apache Airflow, whose workers instead of executing the job themselves, run Docker containers and wait until they complete.
 
 # Requirements
 * Linux or MacOS
@@ -26,5 +23,3 @@ This repository contains the code for article https://medium.com/@tomaszdudek/ye
 
 ![pip](result.png)
 
-# Modify
-* feel free to make PR's
