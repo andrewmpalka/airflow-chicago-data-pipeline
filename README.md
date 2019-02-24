@@ -1,5 +1,5 @@
-# Based on [Spaszek's Airflow_Project] (https://github.com/spaszek/airflow_project)
-It features a scaffold of Apache Airflow, whose workers instead of executing the job themselves, run Docker containers and wait until they complete.
+# Based on Spaszek's Airflow_Project
+[The project](https://github.com/spaszek/airflow_project) features a scaffold of Apache Airflow, whose workers instead of executing the job themselves, run Docker containers and wait until they complete.
 
 # Requirements
 * Linux or MacOS
